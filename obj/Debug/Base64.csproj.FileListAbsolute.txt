@@ -1,0 +1,8 @@
+E:\VS programy\BASE64\Base64\bin\Debug\Base64.exe
+E:\VS programy\BASE64\Base64\bin\Debug\Base64.pdb
+E:\VS programy\BASE64\Base64\obj\Debug\Base64.csprojResolveAssemblyReference.cache
+E:\VS programy\BASE64\Base64\obj\Debug\Base64.Form1.resources
+E:\VS programy\BASE64\Base64\obj\Debug\Base64.Properties.Resources.resources
+E:\VS programy\BASE64\Base64\obj\Debug\Base64.csproj.GenerateResource.Cache
+E:\VS programy\BASE64\Base64\obj\Debug\Base64.exe
+E:\VS programy\BASE64\Base64\obj\Debug\Base64.pdb
